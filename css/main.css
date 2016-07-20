@@ -1,0 +1,118 @@
+h1, h2, h3, h4, li {
+  font-weight: 400;
+  color: #4A4A4A;
+}
+p {
+  color: #BFBFBF;
+}
+span {
+  color: orange;
+}
+
+#icon {
+  background-image:url(../images/search.svg);
+  background-repeat: no-repeat;
+  background-position: 20px 20px;
+  background-color: #fff;
+  border: 0;
+  border-radius: 40px;
+  box-shadow: 0 1px 2px 0 rgba(255,255,255,.18),inset 0 1px 3px 0 rgba(0,0,0,.24);
+  font-weight: 300;
+  height: 50px;
+  width: 280px;
+  outline: 0;
+  padding-left: 40px;
+}
+.banner1content img {
+  width: 25px;
+  height: 25px;
+}
+.banner1 {
+  width: 100%;
+}
+.banner1 li {
+  color: white;
+}
+.banner1content h1{
+  color: white;
+  margin-bottom: 50px;
+}
+.nav {
+  width: 100%;
+  padding: 30px 30px 30px 30px;
+}
+.logo {
+  float: left;
+  color: white;
+  font-size: 20px;
+}
+.navcontents ul {
+  float: right;
+  color: white;
+  font-weight: lighter;
+}
+.navcontents li {
+  display: inline-block;
+  padding-left: 10px;
+}
+.banner1 {
+  text-align: center;
+  height: 70vh;
+  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  background-size: cover !important;
+}
+h3 img {
+  width: 25px;
+  height: 25px;
+  padding-bottom: 5px;
+}
+ul {
+  padding-left: 0px;
+}
+li {
+  list-style-type: none;
+}
+li img {
+  width: 25px;
+  height: 25px;
+  padding-bottom: 5px;
+  margin-right: 20px;
+}
+.banner3 {
+  line-height: 1.7em;
+}
+.banner1content {
+  height: 50vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+.bannerpadding {
+  padding: 50px 0 50px;
+}
+img {
+  border-radius: 20px;
+  height: 150px;
+  width: 150px;
+}
+.meetingpic {
+  height: 70%;
+}
+.banner2 h3 {
+  margin-bottom: 60px;
+}
+.contentpadding {
+  padding: 30px 30px 30px 30px;
+}
+.banner3 h3 {
+  margin-bottom: 40px;
+}
+.banner4 h3 {
+  margin-bottom: 70px;
+}
+.banner4 img {
+  margin-bottom: 40px;
+}
